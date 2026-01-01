@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairam46" alt="jairam46" /></a> </p>
 
-- 🔭 I’m currently working on [vegitables store management system](https://github.com/Jairam46/Python-projects)
+- 🔭 I’m currently working on [Job-scraper](https://github.com/Jairam46/job_scraper)
 
 - 🌱 I’m currently learning **Django,Css**
 
