@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jairam Hegde|Backend Development(Python,Django)|MCA Student</h1>
+<h1 align="center">Hi, I'm Jairam Hegde | Backend Development(Python,Django)|MCA Student</h1>
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairam46&label=Profile%20views&color=0e75b6&style=flat" alt="jairam46" /> </p>
