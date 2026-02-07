@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairam46" alt="jairam46" /></a> </p>
 
-- 🔭 I’m currently working on [Job-scraper](https://github.com/Jairam46/job_scraper)
+- 🔭 I’m currently working on [Internship Market Analyzer](https://github.com/Jairamhegde))
 
 - 🌱 I’m currently learning **Django,Css**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jairam46](https://github.com/Jairam46)
+- 👨‍💻 All of my projects are available at [https://github.com/Jairam46](https://github.com/Jairamhegde)
 
 - 📫 How to reach me **jairamkansur@gmail.com**
 
