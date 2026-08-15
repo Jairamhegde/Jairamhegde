@@ -6,6 +6,5 @@
 
 ## About Me
 
-Pursuing my MCA (Master of Computer Applications)
 Currently exploring FastAPI, async patterns, and backend architecture
 
