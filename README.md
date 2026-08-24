@@ -5,6 +5,5 @@
 </p>
 
 
-
-Currently building full-stack skills, with a focus on backend architecture and async patterns using FastAPI, and exploring AI/ML integration
+<p align='center'>Building scalable backend architectures with FastAPI and async patterns, with a focus on AI/ML integration.</p>
 
